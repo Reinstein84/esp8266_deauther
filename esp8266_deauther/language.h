@@ -351,8 +351,8 @@ const char D_UP[] PROGMEM = "UP:";
 const char D_DOWN[] PROGMEM = "DOWN:";
 const char D_LEFT[] PROGMEM = "LEFT:";
 const char D_RIGHT[] PROGMEM = "RIGHT:";
-const char D_B[] PROGMEM = "A:";
-const char D_A[] PROGMEM = "B:";
+const char D_A[] PROGMEM = "A:";
+const char D_B[] PROGMEM = "B:";
 
 // MAIN MENU
 const char D_SCAN[] PROGMEM = "SCAN";
